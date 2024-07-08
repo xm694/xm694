@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @ShayMo
-- 👀 I'm working on becoming a full-stack web developer
+- 👀 I'm working on becoming a full-stack data engineer
 - 🌱 I’m currently doing a master degree in UOW
 - 💞️ I’m looking to collaborate on anything fun
-- 📫 How to reach me xm694@uowmail.edu.au
+- 📫 How to reach me shaymok@outlook.com
 
 <!---
 xm694/xm694 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
