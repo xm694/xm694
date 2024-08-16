@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ShayMo
 - 👀 I'm working on becoming a full-stack data engineer
-- 🌱 I’m currently doing a master degree in UOW
+- 🌱 Master'd degree of Computer Science
 - 💞️ I’m looking to collaborate on anything fun
 - 📫 How to reach me shaymok@outlook.com
 
